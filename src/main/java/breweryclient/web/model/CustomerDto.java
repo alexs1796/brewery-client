@@ -1,4 +1,4 @@
-package breweryclient.springframework.msscbreweryclient.web.model;
+package breweryclient.web.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

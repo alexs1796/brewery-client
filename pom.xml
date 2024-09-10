@@ -8,10 +8,10 @@
         <version>2.1.4.RELEASE</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>guru.springframework</groupId>
-    <artifactId>mssc-brewery-client</artifactId>
+    <groupId>breweryclient.springframework</groupId>
+    <artifactId>brewery-client</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>mssc-brewery-client</name>
+    <name>brewery-client</name>
     <description>SFG Brewery Client</description>
 
     <properties>

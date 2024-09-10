@@ -1,1 +1,1 @@
-package breweryclient.springframework.msscbreweryclient.web.client;
+package breweryclient.web.client;
